@@ -1,0 +1,47 @@
+body{
+	Font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand img{
+	width: 82px;
+}
+
+.card-title{
+    color: #212529;
+}
+
+.card-text{
+    font-size: 13px;
+	color: #707070;
+	font-weight: 80;
+	text-align: justify;
+}
+
+.card-img-top{
+	width: 200px;
+	height: 150px;
+}
+
+.text-secondary{
+	font-weight: 80;
+	color: #707070;
+}
+
+.text-success{
+	font-size: 20px;
+	font-weight: 62px;
+    color: #28A745;
+}
+
+.precios{
+	text-align: right;
+}
+
+footer img{
+	width: 82px;
+	padding-top: 30px;
+}
+
+footer p{
+	color:#707070;
+}
